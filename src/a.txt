@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 fdsfdsfdsfd
 fdfdafdsafds
+=======
+>>>>>>> master
 aaaaaa
 aaaaa
